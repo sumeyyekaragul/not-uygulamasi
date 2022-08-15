@@ -1,0 +1,2 @@
+# not-uygulamasi
+not uygulaması
